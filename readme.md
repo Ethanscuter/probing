@@ -14,4 +14,4 @@
   - Perform word probability prediction on 100 test sentences
 
 ## Citation：
-  > Xintong Wang, Jingwen Wang, Chris Biemann, Xingshan Li, "title", ACL ARR 2022.
+  > Xintong Wang, Jingwen Wang, Xingshan Li, Chris Biemann. "title", ACL ARR 2022.
