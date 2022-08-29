@@ -1,0 +1,6 @@
+
+/raid/xwang/corpus/wiki.csv
+
+/raid/xwang/corpus/weibo.csv
+
+/raid/xwang/corpus/subtitle.csv
