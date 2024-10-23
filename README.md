@@ -1,4 +1,4 @@
-# ACL ARR '22: Word Probability Prediction
+# Word Probability Prediction
 
 ## Models
   - Statistical models: N-Gram Language model w/o Kneser–Ney smoothing
@@ -12,6 +12,3 @@
 
 ## Evaluation:
   - Perform word probability prediction on 100 test sentences
-
-## Citation：
-  > Xintong Wang, Jingwen Wang, Xingshan Li, Chris Biemann. "title", ACL ARR 2022.
